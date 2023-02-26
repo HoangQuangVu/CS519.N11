@@ -1,14 +1,14 @@
 # CS519.N11
 
-# Giới thiệu
+## Giới thiệu
 - Tên môn học: PHƯƠNG PHÁP LUẬN NGHIÊN CỨU KHOA HỌC - Scientific research methodology
 - Mã lớp: CS519.M11.KHCL
 - Năm học: HK1 (2021-2022)
 
-# Giảng viên
+## Giảng viên
 - PGS.TS Lê Đình Duy - duyld@uit.edu.vn
 
-# Thành viên nhóm
+## Thành viên nhóm
 | STT | Họ tên | MSSV | Email | Github |
 |-----|--------|------|-------|--------|
 | 1 | Trần Thành | 20521924 | 20521924@uit.edu.vn |-------|
