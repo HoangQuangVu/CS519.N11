@@ -1,4 +1,4 @@
-# CS519.N11
+# CS519.N12
 
 ## Giới thiệu
 - Tên môn học: PHƯƠNG PHÁP LUẬN NGHIÊN CỨU KHOA HỌC - Scientific research methodology
