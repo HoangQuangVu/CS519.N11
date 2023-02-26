@@ -12,5 +12,5 @@
 | STT | Họ tên | MSSV | Email | Github |
 |-----|--------|------|-------|--------|
 | 1 | Trần Thành | 20521924 | 20521924@uit.edu.vn |[TranThanh159](https://github.com/TranThanh159/CS519.N11)|
-| 2 | Nguyễn Duy Phúc | 18521255 | 18521255@uit.edu.vn | ----- |
+| 2 | Nguyễn Duy Phúc | 18521255 | 18521255@uit.edu.vn |[duyphuc171](https://github.com/duyphuc171/doan3dmoments)|
 | 3 | Hoàng Quang Vũ | 19522530 | 19522530@uit.edu.vn |[HoangQuangVu](https://github.com/HoangQuangVu/CS519.N11)|
